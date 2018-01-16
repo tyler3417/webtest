@@ -24,3 +24,12 @@ li a {
 li a:hover {
     background-color: #111;
 }
+/* website font */
+@font-face {
+    font-family: myFonts;
+    src: url(NimbusSanL-Reg.otf);
+}
+
+div {
+    font-family: myFonts;
+}
