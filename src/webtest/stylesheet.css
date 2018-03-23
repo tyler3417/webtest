@@ -1,11 +1,6 @@
-/* website font */
-@font-face {
-    font-family: myFonts;
-    src: url(NimbusSanL-Reg.otf);
-}
-
-div {
-    font-family: myFonts;
+p
+{
+	font-family: 'Source Sans Pro', sans-serif;
 }
 /*Code is for a navagation bar */
 
